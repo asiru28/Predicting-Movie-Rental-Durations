@@ -2,7 +2,7 @@
 
 # Overview/Introduction
 
-A DVD rental company is seeking to optimize its inventory planning by predicting how many days a customer will rent a DVD. Accurate predictions will help the company manage its inventory more efficiently and improve customer satisfaction. This project uses regression models to predict rental durations based on features such as rental rate, movie length, release year, and special features. The goal is to develop a model with a Mean Squared Error (MSE) of 3 or less on the test set.
+A DVD rental company is seeking to optimise its inventory planning by predicting how many days a customer will rent a DVD. Accurate predictions will help the company manage its inventory more efficiently and improve customer satisfaction. This project uses regression models to predict rental durations based on features such as rental rate, movie length, release year, and special features. The goal is to develop a model with a Mean Squared Error (MSE) of 3 or less on the test set.
 
 # Objectives
 
